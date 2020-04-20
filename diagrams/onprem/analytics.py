@@ -12,6 +12,10 @@ class Beam(_Analytics):
     _icon = "beam.png"
 
 
+class F5Telemetrystreaming(_Analytics):
+    _icon = "f5telemetrystreaming.png"
+
+
 class Flink(_Analytics):
     _icon = "flink.png"
 

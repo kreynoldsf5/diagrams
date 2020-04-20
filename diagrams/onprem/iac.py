@@ -16,6 +16,14 @@ class Awx(_Iac):
     _icon = "awx.png"
 
 
+class F5Applicationservices3(_Iac):
+    _icon = "f5applicationservices3.png"
+
+
+class F5Declarativeonboarding(_Iac):
+    _icon = "f5declarativeonboarding.png"
+
+
 class Terraform(_Iac):
     _icon = "terraform.png"
 

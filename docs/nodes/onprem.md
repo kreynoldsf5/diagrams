@@ -51,6 +51,7 @@ Node classes list of onprem provider.
 - **diagrams.onprem.network.Consul**
 - **diagrams.onprem.network.Envoy**
 - **diagrams.onprem.network.Etcd**, **ETCD** (alias)
+- **diagrams.onprem.network.F5**
 - **diagrams.onprem.network.Haproxy**, **HAProxy** (alias)
 - **diagrams.onprem.network.Internet**
 - **diagrams.onprem.network.Istio**
@@ -85,6 +86,8 @@ Node classes list of onprem provider.
 
 - **diagrams.onprem.iac.Ansible**
 - **diagrams.onprem.iac.Awx**
+- **diagrams.onprem.iac.F5Applicationservices3**
+- **diagrams.onprem.iac.F5Declarativeonboarding**
 - **diagrams.onprem.iac.Terraform**
 
 ## onprem.compute
@@ -143,6 +146,7 @@ Node classes list of onprem provider.
 ## onprem.analytics
 
 - **diagrams.onprem.analytics.Beam**
+- **diagrams.onprem.analytics.F5Telemetrystreaming**
 - **diagrams.onprem.analytics.Flink**
 - **diagrams.onprem.analytics.Hadoop**
 - **diagrams.onprem.analytics.Hive**

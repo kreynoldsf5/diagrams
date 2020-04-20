@@ -28,6 +28,10 @@ class Etcd(_Network):
     _icon = "etcd.png"
 
 
+class F5(_Network):
+    _icon = "f5.png"
+
+
 class Haproxy(_Network):
     _icon = "haproxy.png"
 
