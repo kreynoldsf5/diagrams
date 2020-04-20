@@ -12,6 +12,10 @@ class Client(_Client):
     _icon = "client.png"
 
 
+class React(_Client):
+    _icon = "react.png"
+
+
 class User(_Client):
     _icon = "user.png"
 
